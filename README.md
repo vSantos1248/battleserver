@@ -1,1 +1,1 @@
-# battleserver
+# Problem description: https://github.com/dutc/battlegame
